@@ -1,0 +1,12 @@
+
+<h1>Student</h1>
+<input [(ngModel)]="searchText"><button (click)="getStudentsBy()">Search</button>
+<div *ngFor="let s of students"> 
+  {{s.studentID}}
+  <a [title]="grades" [routerLink]="['/students',s.studentID]" routerLinkActive="router-link-active" >
+    {{s.name}}
+  </a>
+  {{s.birthDate}}
+  {{s.address}}
+  <app-student-details [student]="s" (notify)="onNotify()" ></app-student-details>
+</div>

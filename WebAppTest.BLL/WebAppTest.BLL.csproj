@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WebAppTest.DAL\WebAppTest.DAL.csproj" />
+    <ProjectReference Include="..\WebAppTest.Models\WebAppTest.Models.csproj" />
+  </ItemGroup>
+
+</Project>

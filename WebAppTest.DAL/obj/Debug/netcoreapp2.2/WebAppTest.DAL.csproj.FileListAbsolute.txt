@@ -1,0 +1,14 @@
+F:\tmp\WebAppTest\WebAppTest.DAL\bin\Debug\netcoreapp2.2\WebAppTest.DAL.deps.json
+F:\tmp\WebAppTest\WebAppTest.DAL\bin\Debug\netcoreapp2.2\WebAppTest.DAL.runtimeconfig.json
+F:\tmp\WebAppTest\WebAppTest.DAL\bin\Debug\netcoreapp2.2\WebAppTest.DAL.runtimeconfig.dev.json
+F:\tmp\WebAppTest\WebAppTest.DAL\bin\Debug\netcoreapp2.2\WebAppTest.DAL.dll
+F:\tmp\WebAppTest\WebAppTest.DAL\bin\Debug\netcoreapp2.2\WebAppTest.DAL.pdb
+F:\tmp\WebAppTest\WebAppTest.DAL\bin\Debug\netcoreapp2.2\WebAppTest.Models.dll
+F:\tmp\WebAppTest\WebAppTest.DAL\bin\Debug\netcoreapp2.2\WebAppTest.Models.pdb
+F:\tmp\WebAppTest\WebAppTest.DAL\obj\Debug\netcoreapp2.2\WebAppTest.DAL.csprojAssemblyReference.cache
+F:\tmp\WebAppTest\WebAppTest.DAL\obj\Debug\netcoreapp2.2\WebAppTest.DAL.csproj.CoreCompileInputs.cache
+F:\tmp\WebAppTest\WebAppTest.DAL\obj\Debug\netcoreapp2.2\WebAppTest.DAL.AssemblyInfoInputs.cache
+F:\tmp\WebAppTest\WebAppTest.DAL\obj\Debug\netcoreapp2.2\WebAppTest.DAL.AssemblyInfo.cs
+F:\tmp\WebAppTest\WebAppTest.DAL\obj\Debug\netcoreapp2.2\WebAppTest.DAL.csproj.CopyComplete
+F:\tmp\WebAppTest\WebAppTest.DAL\obj\Debug\netcoreapp2.2\WebAppTest.DAL.dll
+F:\tmp\WebAppTest\WebAppTest.DAL\obj\Debug\netcoreapp2.2\WebAppTest.DAL.pdb

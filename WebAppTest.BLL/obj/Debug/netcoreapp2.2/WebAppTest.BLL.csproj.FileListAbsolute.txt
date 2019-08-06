@@ -1,0 +1,14 @@
+F:\tmp\WebAppTest\WebAppTest.BLL\bin\Debug\netcoreapp2.2\WebAppTest.BLL.deps.json
+F:\tmp\WebAppTest\WebAppTest.BLL\bin\Debug\netcoreapp2.2\WebAppTest.BLL.dll
+F:\tmp\WebAppTest\WebAppTest.BLL\bin\Debug\netcoreapp2.2\WebAppTest.BLL.pdb
+F:\tmp\WebAppTest\WebAppTest.BLL\bin\Debug\netcoreapp2.2\WebAppTest.DAL.dll
+F:\tmp\WebAppTest\WebAppTest.BLL\bin\Debug\netcoreapp2.2\WebAppTest.Models.dll
+F:\tmp\WebAppTest\WebAppTest.BLL\bin\Debug\netcoreapp2.2\WebAppTest.DAL.pdb
+F:\tmp\WebAppTest\WebAppTest.BLL\bin\Debug\netcoreapp2.2\WebAppTest.Models.pdb
+F:\tmp\WebAppTest\WebAppTest.BLL\obj\Debug\netcoreapp2.2\WebAppTest.BLL.csprojAssemblyReference.cache
+F:\tmp\WebAppTest\WebAppTest.BLL\obj\Debug\netcoreapp2.2\WebAppTest.BLL.csproj.CoreCompileInputs.cache
+F:\tmp\WebAppTest\WebAppTest.BLL\obj\Debug\netcoreapp2.2\WebAppTest.BLL.AssemblyInfoInputs.cache
+F:\tmp\WebAppTest\WebAppTest.BLL\obj\Debug\netcoreapp2.2\WebAppTest.BLL.AssemblyInfo.cs
+F:\tmp\WebAppTest\WebAppTest.BLL\obj\Debug\netcoreapp2.2\WebAppTest.BLL.csproj.CopyComplete
+F:\tmp\WebAppTest\WebAppTest.BLL\obj\Debug\netcoreapp2.2\WebAppTest.BLL.dll
+F:\tmp\WebAppTest\WebAppTest.BLL\obj\Debug\netcoreapp2.2\WebAppTest.BLL.pdb

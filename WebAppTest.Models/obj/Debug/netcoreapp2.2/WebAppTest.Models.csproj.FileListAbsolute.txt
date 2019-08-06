@@ -1,0 +1,9 @@
+F:\tmp\WebAppTest\WebAppTest.Models\bin\Debug\netcoreapp2.2\WebAppTest.Models.deps.json
+F:\tmp\WebAppTest\WebAppTest.Models\bin\Debug\netcoreapp2.2\WebAppTest.Models.dll
+F:\tmp\WebAppTest\WebAppTest.Models\bin\Debug\netcoreapp2.2\WebAppTest.Models.pdb
+F:\tmp\WebAppTest\WebAppTest.Models\obj\Debug\netcoreapp2.2\WebAppTest.Models.csprojAssemblyReference.cache
+F:\tmp\WebAppTest\WebAppTest.Models\obj\Debug\netcoreapp2.2\WebAppTest.Models.csproj.CoreCompileInputs.cache
+F:\tmp\WebAppTest\WebAppTest.Models\obj\Debug\netcoreapp2.2\WebAppTest.Models.AssemblyInfoInputs.cache
+F:\tmp\WebAppTest\WebAppTest.Models\obj\Debug\netcoreapp2.2\WebAppTest.Models.AssemblyInfo.cs
+F:\tmp\WebAppTest\WebAppTest.Models\obj\Debug\netcoreapp2.2\WebAppTest.Models.dll
+F:\tmp\WebAppTest\WebAppTest.Models\obj\Debug\netcoreapp2.2\WebAppTest.Models.pdb
